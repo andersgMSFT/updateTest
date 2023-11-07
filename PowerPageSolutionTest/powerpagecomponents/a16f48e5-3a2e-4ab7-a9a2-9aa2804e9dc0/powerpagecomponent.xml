@@ -1,0 +1,23 @@
+<powerpagecomponent powerpagecomponentid="a16f48e5-3a2e-4ab7-a9a2-9aa2804e9dc0">
+  <content>{"copy":"&lt;div class='row sectionBlockLayout text-left' style='display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;'&gt;\r\n  &lt;div class='container' style='padding: 0px; display: flex; flex-wrap: wrap;'&gt;\r\n    &lt;div class='col-md-12 columnBlockLayout' style='flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;'&gt;\r\n      &lt;h1 style='text-align: center;'&gt;Search&lt;/h1&gt;\r\n      {% include 'search' %}\r\n    &lt;/div&gt;\r\n  &lt;/div&gt;\r\n&lt;/div&gt;\r\n","displayorder":4,"enablerating":false,"enabletracking":false,"excludefromsearch":false,"hiddenfromsitemap":false,"isroot":false,"pagetemplateid":"5c5904e9-8527-485c-b24f-2e2233a10b45","parentpageid":"2396d196-38bb-4cea-9caa-25e482298745","partialurl":"search","publishingstateid":"e3470ee8-0fd0-4341-93cf-c99506125cec","rootwebpageid":"321010ea-8e5c-4483-82c4-2ed677bf024f","sharedpageconfiguration":false,"summary":"&lt;p&gt;This is a sample landing page designed to be a starting point for your website&lt;/p&gt;"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Search</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>5e3963e7-2aa5-4e7e-b5fd-b1417552889f</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>8e15368b-d165-4734-8701-39ec812c864f</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <searchcontent>&lt;div class='row sectionBlockLayout text-left' style='display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;'&gt;
+  &lt;div class='container' style='padding: 0px; display: flex; flex-wrap: wrap;'&gt;
+    &lt;div class='col-md-12 columnBlockLayout' style='flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;'&gt;
+      &lt;h1 style='text-align: center;'&gt;Search&lt;/h1&gt;
+      {% include 'search' %}
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+Search</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

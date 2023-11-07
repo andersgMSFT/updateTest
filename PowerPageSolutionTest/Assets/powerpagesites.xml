@@ -1,0 +1,11 @@
+<powerpagesites>
+  <powerpagesite powerpagesiteid="5e3963e7-2aa5-4e7e-b5fd-b1417552889f">
+    <content>{"defaultlanguage":"8e15368b-d165-4734-8701-39ec812c864f","footerwebtemplateid":"644c042e-5f22-42b4-9971-c1edd5c3abf7","headerwebtemplateid":"89ff8d67-714d-4e5d-97e5-34fc31385b48","statecode":0,"statuscode":1,"website_language":1033}</content>
+    <datamodelversion>2.0</datamodelversion>
+    <iscustomizable>1</iscustomizable>
+    <name>TestSite1 - site-jo6ts</name>
+    <primarydomainname>site-jo6ts.powerappsportals.com</primarydomainname>
+    <statecode>0</statecode>
+    <statuscode>1</statuscode>
+  </powerpagesite>
+</powerpagesites>

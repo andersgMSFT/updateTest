@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="5e47951d-a840-44e2-aedb-830e664b2c31">
+  <content>{"display_name":"Footer","type":756150001,"value":"&lt;p class=\"smallText\"&gt;Copyright © &lt;span id=\"year\"&gt;&lt;/span&gt;. All rights reserved.&lt;/p&gt;\r\n&lt;script&gt;\r\ndocument.getElementById(\"year\").innerHTML = new Date().getFullYear();\r\n&lt;/script&gt;"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Footer</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>5e3963e7-2aa5-4e7e-b5fd-b1417552889f</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>8e15368b-d165-4734-8701-39ec812c864f</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
